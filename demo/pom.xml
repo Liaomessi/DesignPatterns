@@ -8,8 +8,10 @@
         <version>v1.0.0</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
+    <groupId>com.liaomessi</groupId>
 
-    <artifactId>state-pattern</artifactId>
-    <description>生产实践中关于状态模式的应用</description>
+    <artifactId>demo</artifactId>
+    <version>v1.0.0</version>
+    <description>个人博客demo</description>
 
 </project>
